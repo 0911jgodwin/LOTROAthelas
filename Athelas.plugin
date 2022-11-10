@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<Plugin>
+	<Information>
+		<Name>Athelas</Name>
+		<Author>Exo</Author>
+		<Version>1.1</Version>
+		<Description>
+Welcome to the Athelas plugin!
+
+This plugin has been designed to replace the default vitals frame with something significantly more stylised. 
+
+This new vitals frame can be moved the same way the default frame is moved. For most users this is done via the following keyboard shortcut: "CTRL+\".
+
+Have fun!
+		</Description>
+		<Image>Exoplugins/Athelas/Resources/icon.tga</Image>
+	</Information>
+	<Package>ExoPlugins.Athelas.Main</Package>
+	<Configuration Apartment="Athelas" />
+</Plugin>

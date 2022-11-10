@@ -1,0 +1,15 @@
+import "Turbine";
+import "Turbine.Gameplay";
+import "Turbine.UI";
+import "Turbine.UI.Lotro";
+import "ExoPlugins.Athelas.Turbine";
+import "ExoPlugins.Athelas.Options";
+import "ExoPlugins.Athelas.Utils";
+import "ExoPlugins.Athelas.Dragbar";
+import "ExoPlugins.Athelas.Updater";
+import "ExoPlugins.Athelas.VitalsBar";
+import "ExoPlugins.Athelas.VitalsWindow";
+import "ExoPlugins.Athelas.TargetVitalsWindow";
+import "ExoPlugins.Athelas.ClassHolder";
+import "ExoPlugins.Athelas.Logo";
+import "ExoPlugins.Athelas.EffectDisplay";

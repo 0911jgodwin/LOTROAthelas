@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<Plugin>
+    <Information>
+        <Name>~AthelasReloader</Name>
+        <Author>Exo</Author>
+        <Version>1.1</Version>
+	<Image>Exoplugins/AthelasReloader/icon.tga</Image>
+    </Information>
+    <Package>ExoPlugins.AthelasReloader.init</Package>
+    <Configuration Apartment="AthelasReloader" />
+</Plugin>
